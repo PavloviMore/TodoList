@@ -1,0 +1,32 @@
+[
+ {
+    "feladatNev":"Programozás",
+    "feladatSurgoseg":"Mai nap",
+    "checked": false
+ },
+ {
+    "feladatNev":"Kutya sétáltalás",
+    "feladatSurgoseg":"Mai nap",
+    "checked": false
+ },
+ {
+    "feladatNev":"Kert takaritás",
+    "feladatSurgoseg":"Mai nap",
+    "checked": false
+ },
+ {
+    "feladatNev":"Megnézni a radiátort",
+    "feladatSurgoseg":"Minnél előbb",
+    "checked": false
+ },
+ {
+    "feladatNev":"EON felkeresése",
+    "feladatSurgoseg":"Kell",
+    "checked": false
+ },
+ {
+    "feladatNev":"Video vágás",
+    "feladatSurgoseg":"Kell",
+    "checked": false
+ }
+]
